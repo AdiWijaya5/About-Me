@@ -1,17 +1,20 @@
- <h1 algin="center"> Hai 👋, I'm Adi Wijaya </h1>
+ <h1 algin="center"> <b><u>  Hai 👋, I'm Adi Wijaya </u></b></h1>
  <h2 align="center"> <b><u>Welcome to my github!👋</u></b></h3>
  
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adiwijaya&label=Profile%20views&color=0e75b6&style=flat" alt="adiwijaya" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiwijaya&theme=onedark" alt="adiwijaya" /></a> </p>
 
 <br> 
+
 - 🔭 Saya Adalah Developer Komunitas Fivem Central Indonesia.
+  
 - 🌱 Sedang Mempelajari Program Lua,JS, Go dan Laravel.
+  
 - 👯 Berpendidikan di Universitas Pancasila.
+  
 - 🤝 Pemain fivem roleplay dan FFA.
+  
 - 📫 Email : adiwijaya5699@gmail.com. 
  
 
@@ -23,11 +26,9 @@ Lifelong Learner, currently working as budagh kompeni.
 <p align="center">
 <a href="https://instagram.com/adiwijaya_jy" target="blank">
 <a href="https://www.youtube.com/channel/@ali_keyzen?si=5y2U-ci3cdcmsCuk" target="blank">
+</a>
+</a>
 </p>
 
- 
-
-<a href="https://www.instagram.com/adiwijaya_jy/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://www.instagram.com/adiwijaya_jy/" />
-</a>
+### ✉️ Contact Me
 
