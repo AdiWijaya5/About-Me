@@ -1,4 +1,5 @@
- <h1 algin="center"> <b><u>  Hai 👋, I'm Adi Wijaya </u></b></h1>
+
+ <h1 algin="center">Hai 👋, I'm Adi Wijaya</h1>
  <h2 align="center"> <b><u>Welcome to my github!👋</u></b></h3>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adiwijaya&label=Profile%20views&color=0e75b6&style=flat" alt="adiwijaya" /> </p>
@@ -7,7 +8,7 @@
 
 <br> 
 
-- 🔭 Saya Adalah Developer Komunitas Fivem Central Indonesia.
+- 🔭 Saya Adalah Fresh graduate Teknik Informatika dari Universitas Teknologi Yogyakarta dengan konsentrasi Android/Mobile.
   
 - 🌱 Sedang Mempelajari Program Lua,JS, Go dan Laravel.
   
@@ -19,7 +20,7 @@
  
 
 <h2 align="center">Tools dan Bahasa Pemograman Yang Saya Pakai</h1> 
-<p <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudiocode" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="c" width="40" height="40"/>
+<p align="center"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudiocode" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="c" width="40" height="40"/>
 
  <h2 align="center">Social Media</h1> 
 <br> 
