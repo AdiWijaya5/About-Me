@@ -12,7 +12,7 @@
   
 - 🌱 Sedang Mempelajari Program Lua,JS, Go dan Laravel.
   
-- 👯 Berpendidikan di Universitas Pancasila.
+- 👯 Berpendidikan di Universitas Teknologi Yogyakarta.
   
 - 🤝 Pemain fivem roleplay dan FFA.
   
@@ -20,16 +20,15 @@
  
 
 <h2 align="center">Tools dan Bahasa Pemograman Yang Saya Pakai</h1> 
-<p align="center"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudiocode" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="c" width="40" height="40"/>
+<p align="center"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudiocode" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="c" width="40" height="40"/> <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/
 
  <h2 align="center">Social Media</h1> 
 <br> 
 <p align="center">
-<a href="https://instagram.com/adiwijaya_jy" target="blank">
-<a href="https://www.youtube.com/channel/@ali_keyzen?si=5y2U-ci3cdcmsCuk" target="blank">
-</a>
-</a>
-</p>
+<a href="https://instagram.com/adiwijaya_jy" target="blank"></a>
+<a href="https://www.youtube.com/channel/@ali_keyzen?si=5y2U-ci3cdcmsCuk" target="blank"></a>
+
 
 ### ✉️ Contact Me
+
 
