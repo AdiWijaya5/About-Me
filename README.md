@@ -1,4 +1,3 @@
-# About-Me
  <h1 algin="center"> Hai 👋, I'm Adi Wijaya </h1>
  <h2 align="center"> <b><u>Welcome to my github!👋</u></b></h3>
  
@@ -14,10 +13,10 @@ Lifelong Learner, currently working as budagh kompeni.
 - 👯 Berpendidikan di Universitas Pancasila.
 - 🤝 Pemain fivem roleplay dan FFA.
 - 📫 Email : adiwijaya5699@gmail.com. 
-</br> 
+ 
 
 <h2 align="center">Tools dan Bahasa Pemograman Yang Saya Pakai</h1> 
-<p align="lift"> alt="photoshop" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudiocode" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="c" width="40" height="40"/>
+<p <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudiocode" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="c" width="40" height="40"/>
 
  <h2 align="center">Social Media</h1> 
 <br> 
@@ -25,7 +24,7 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://instagram.com/adiwijaya_jy" target="blank">
 <a href="https://www.youtube.com/channel/@ali_keyzen?si=5y2U-ci3cdcmsCuk" target="blank">
 </p>
-</b>
+
  
 
 <a href="https://www.instagram.com/adiwijaya_jy/">
